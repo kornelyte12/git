@@ -11,9 +11,10 @@
         "number": "node --watch ./js/1-number.js",
         "js": "node ./index.js",
         "test": "echo \"Error: no test specified\" && exit 1"
-        "autor": "Kornelija (https://github.com/kornelyte12)"
+        "author": "Kornelija (https://github.com/kornelyte12)"
     },
+    
     "keywords": [],
-    "author": "Rimantas (https://github.com/belauzas)",
     "license": "MIT"
+    
 }
